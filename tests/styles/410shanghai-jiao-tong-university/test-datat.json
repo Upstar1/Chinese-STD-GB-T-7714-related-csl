@@ -1,0 +1,45 @@
+[
+	{
+		"id": "ZhongHuaRenMinGongHeGuoGuoJiaZhiLiangJianDuJianYanJianYiZongJuXinXiYuWenXianCanKaoWenXianZhuLuGuiZeGB2015",
+		"type": "standard",
+		"abstract": "本标准规定了各个学科、各种类型信息资源的参考文献的著录项目、著录顺序、著录用符号、著录用文字、各个著录项目的著录方法以及参考文献在正文中的标注法。 本标准适用于著者和编辑著录参考文献，而不是供图书馆员、文献目录编制者以及索引编辑者使用的文献著录规则。",
+		"archive_location": "https://d.wanfangdata.com.cn/standard/GB/T 7714-2015",
+		"event-place": "北京",
+		"genre": "Standard",
+		"language": "zh-CN",
+		"note": "ICS: 0101.140.20\napplyDate: 2015-12-01\nsubstitute: 该标准替代了如下标准： GB/T 7714-2005;\nreference: GB/T 7408-2005GB/T 28039-2011ISO 4\nadopted: ISO 690:2010(E);",
+		"number": "GB/T 7714—2015",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"section": "全国信息与文献标准化技术委员会",
+		"status": "现行",
+		"title": "信息与文献　参考文献著录规则: GB/T 7714—2015",
+		"URL": "http://www.spc.net.cn",
+		"author": [
+			{
+				"literal": "中华人民共和国国家质量监督检验检疫总局"
+			},
+			{
+				"literal": "中国国家标准化管理委员会"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					15
+				]
+			]
+		}
+	}
+]
